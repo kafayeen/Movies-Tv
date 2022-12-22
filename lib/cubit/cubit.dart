@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:moviesappokoul/cubit/states.dart';
 import 'package:moviesappokoul/models/budget.dart';
-import 'package:moviesappokoul/models/favoritesmodel.dart';
 import 'package:moviesappokoul/models/nowplaying.dart';
 import 'package:moviesappokoul/models/popularmodel.dart';
 import 'package:moviesappokoul/models/upcomingmodel.dart';
