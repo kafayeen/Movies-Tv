@@ -1,6 +1,6 @@
-# moviesApp/okoul
+# MoviesApp/okoul
 
-A new Flutter project.
+Okoul Challenge 
 
 ## Getting Started
 
